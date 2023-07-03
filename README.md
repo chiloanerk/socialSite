@@ -1,11 +1,10 @@
-# My PHP CRUD App
+# Social Media Site
 
-This is a PHP CRUD (Create, Read, Update, Delete) application that serves as a base for building my future projects. 
-It provides a framework for managing data through a web interface.
+Since Twitter is acting up, this is my time to shine!
 
 ## Usage
 
-To use the CRUD app, follow these steps:
+To use the app, follow these steps:
 
 1. Clone the repository to your local machine:
 
@@ -25,8 +24,6 @@ Replace `port` with the desired port number (e.g., 8000).
 4. Open a web browser and navigate to `http://localhost:port`.
 
 5. You will be presented with the homepage (`index.php`), which displays the available functionality.
-
-6. Use the navigation links or input forms to perform CRUD operations on the data entities, such as creating, reading, updating, and deleting records.
 
 ## Contributing
 
