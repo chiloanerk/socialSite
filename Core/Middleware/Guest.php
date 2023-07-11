@@ -5,7 +5,7 @@ class Guest
 {
     public function handle()
     {
-        if ($_COOKIE['user_token'] ?? false) {
+        if ($_SESSION['user_token'] ?? false) {
             header('location: /');
             exit();
         }

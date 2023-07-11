@@ -1,10 +1,11 @@
-# Social Media Site
+# My PHP Framework
 
-Since Twitter is acting up, this is my time to shine!
+This is a PHP Framework application that serves as a base for building my future projects. 
+It provides a framework for managing users and pages through a web interface.
 
 ## Usage
 
-To use the app, follow these steps:
+To use the framework, follow these steps:
 
 1. Clone the repository to your local machine:
 
